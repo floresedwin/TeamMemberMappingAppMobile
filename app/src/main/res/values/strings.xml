@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">mobile</string>
+    <string name="auth0_domain">dev-3-b0xwj2.us.auth0.com</string>
+    <string name="login">Log In</string>
+    <string name="logout">Log Out</string>
+    <string name="com_auth0_client_id">KkevcsrgNYOJMRzjiXtY5Tg9xrPFSshM</string>
+    <string name="com_auth0_domain">dev-3-b0xwj2.us.auth0.com</string>
+</resources>
